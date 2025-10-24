@@ -65,18 +65,34 @@ Hi ha dues situacions que la gent fa molt a l’hora de crear contrasenyes:
 
 ---
 
-### 🧠 Recomanació
+## 🧠 Recomanació final
 
-Tenint en compte el projecte d’**EverPia** com a empresa tecnològica que gestiona informació important, la millor opció és **KeePassXC** com a gestor de contrasenyes.
+Després d’analitzar les alternatives, la recomanació per a **EverPia** és **adoptar Bitwarden com a gestor corporatiu de contrasenyes**.
 
 ---
 
-### ⚙️ Motius tècnics de la decisió
+### ⚙️ Justificació tècnica
 
-- **Seguretat:** L’arxiu es guarda xifrat localment, fora del núvol, eliminant riscos en la sincronització online.  
-- **Control:** El personal tècnic pot definir les seves pròpies polítiques de còpia i accés sense dependre d’un servei extern.  
-- **Cost zero:** No hi ha dependència de subscripcions o funcionalitats premium.  
-- **Adequat per entorns tècnics:** Tot i que requereix una configuració inicial més experta, això no és un problema per a un equip tècnic com el d’EverPia.
+#### 🔄 Màxima eficiència i accessibilitat  
+Bitwarden permet treballar de forma sincronitzada tant des de l’oficina com fora d’ella, sense preocupar-se per còpies manuals.
+
+#### 🔒 Seguretat empresarial  
+Utilitza **xifratge end-to-end amb coneixement zero**, afegint protecció addicional mitjançant **autenticació multifactor (2FA)**.
+
+#### 🤝 Entorn col·laboratiu segur  
+El **pla Teams/Enterprise** facilita la compartició controlada de credencials entre equips, essencial per a treballs en projectes comuns.
+
+#### 🧩 Transparència i confiança  
+És de **codi obert** i està constantment **auditada**, garantint confiança per a entorns tècnics i corporatius.
+
+#### 💡 Usabilitat i adopció ràpida  
+La seva interfície senzilla permet que qualsevol empleat, tècnic o administrador la domini ràpidament sense formació complexa.
+
+---
+
+### 🧾 Conclusió
+
+En conjunt, **Bitwarden** ofereix un **bon equilibri entre seguretat, rendiment i facilitat d’adopció**, fet que el converteix en **l’opció més adequada per a la seguretat digital d’EverPia**.
 
 ---
 
