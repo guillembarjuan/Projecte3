@@ -67,7 +67,26 @@ La guia inclou instruccions detallades i **captures de pantalla** sobre:
 
 ---
 
+## 📚 Recursos i materials de suport
+
+- [INCIBE: Gestión de contraseñas seguras](https://www.incibe.es/protege-tu-empresa/blog/gestion-de-contrasenas-seguras)  
+- [Pàgina oficial de Bitwarden](https://bitwarden.com)  
+- [Pàgina oficial de KeePassXC](https://keepassxc.org)  
+- [INCIBE: Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas](https://www.incibe.es/protege-tu-empresa/blog/gestores-de-contrasenas)
+
+---
+
+## ✅ Conclusió
+
+Aquesta tasca m’ha permès comprendre la **importància de la gestió segura de contrasenyes** dins d’una empresa tecnològica i com l’ús d’un **gestor corporatiu** pot prevenir futurs incidents de seguretat.  
+Amb aquest projecte, he après a **avaluar tècnicament solucions de ciberseguretat** i a **documentar-les de manera professional** per al seu ús corporatiu.
+
+---
+
 [Informe de la tasca](informe.md)
+
+---
+
 [Guia de la tasca](guia.md)
 
 ---
