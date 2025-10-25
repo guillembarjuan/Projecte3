@@ -44,7 +44,7 @@ Hi ha dues situacions que la gent fa molt a l’hora de crear contrasenyes:
 - Sincronització automàtica entre dispositius.  
 
 **Inconvenients:**
-- Dependència d’Internet per accedir-hi.  
+- Es necessita Internet per accedir-hi.  
 - Possible preocupació si el servidor de Bitwarden fos compromès (tot i l’E2E).  
 - Algunes funcions premium són de pagament.  
 
@@ -67,7 +67,7 @@ Hi ha dues situacions que la gent fa molt a l’hora de crear contrasenyes:
 
 ## 🧠 Recomanació final
 
-Després d’analitzar les alternatives, la recomanació per a **EverPia** és **adoptar Bitwarden com a gestor corporatiu de contrasenyes**.
+Després d’analitzar les alternatives, la recomanació per a **EverPia** és **fer servir Bitwarden com a gestor corporatiu de contrasenyes**.
 
 ---
 
@@ -92,11 +92,11 @@ La seva interfície senzilla permet que qualsevol empleat, tècnic o administrad
 
 ### 🧾 Conclusió
 
-En conjunt, **Bitwarden** ofereix un **bon equilibri entre seguretat, rendiment i facilitat d’adopció**, fet que el converteix en **l’opció més adequada per a la seguretat digital d’EverPia**.
+En conclusió, **Bitwarden** ofereix un **bon equilibri entre seguretat, rendiment i facilitat d’adopció**, fet que el converteix en **la millor opció per a la seguretat digital d’EverPia**.
 
 ---
 
-[Guia de la tasca](guia.md)
+[Guia d'ús de Bitwarden](guia.md)
 
 ---
 
