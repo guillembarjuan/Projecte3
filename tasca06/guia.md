@@ -81,7 +81,8 @@ nslookup
 ![Consulta no autoritativa](/tasca06/img/captura5.png)
 
 **Anàlisi - Per què és "no autoritativa"?**
-La resposta és no autoritativa perquè ve del nostre servidor DNS local (127.0.0.53) que va guardar la resposta a la memòria cau, no directament dels servidors autoritatius de tecnocampus.cat. És com obtenir informació d'un amic que ja ho sabia, en llocs de preguntar directament a la font original.
+
+La resposta és no autoritativa perquè ve del nostre servidor DNS local (127.0.0.53) que ha guardat la resposta a la memòria cau, no directament dels servidors autoritatius de tecnocampus.cat. És com obtenir informació d'un amic que ja ho sabia, en llocs de preguntar directament a la font original.
 
 #### Comanda 2: Consultes Autoritatives
 ```bash
@@ -91,6 +92,7 @@ La resposta és no autoritativa perquè ve del nostre servidor DNS local (127.0.
 ```
 
 ![Configuració servidor](/tasca06/img/captura7.png)
+
 ![Consulta autoritativa](/tasca06/img/captura8.png)
 
 **Anàlisi - Diferències amb la comanda 1:**
