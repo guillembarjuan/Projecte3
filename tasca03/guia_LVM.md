@@ -12,7 +12,7 @@ S'ha d'utilitzar la distribució Zorin OS (o una alternativa Linux compatible) p
 ![solucio](/tasca03/img_LVM/cap7.png)
 
 ### 2. Alta Disponibilitat: Implementar la configuració d’un mirall (lvm_mirror) que protegeixi la informació davant la fallada d'un disc.
-![solucio](/tasca03/img/cap8.png)
+![solucio](/tasca03/img_LVM/cap8.png)
 
 
 ### 3. Instantànies (snapshots):  Crear i afegir dos discos de 10 GB al grup de volums. Crear un volum (lvm_dades) amb el primer disc afegit, formatar-lo i muntar-lo. A continuació afegir arxius al volum (poden ser imatges d’Internet). Usar el segon disc afegit per crear un snapshot (lv_snapshot) i documentar com es pot restaurar aquest snapshot, si per exemple, la informació del volum original es danyés.
