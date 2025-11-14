@@ -1,4 +1,4 @@
-# Guia Pràctica - Storage Spaces a Windows
+# Guia Pràctica - Storage Spaces a Windows (Miquel i Guillem)
 
 Com a tècnics d'EverPia, ens han encarregat implementar una solució d'emmagatzematge resilient per al bufet d'advocats "Garriga i Associats". En aquesta guia us mostrarem com configurar **Storage Spaces** a Windows per assolir alta disponibilitat i redundància.
 
