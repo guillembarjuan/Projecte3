@@ -277,5 +277,5 @@ Per al bufet d'advocats, que gestiona informació legal sensible, recomanem:
 
 ---
 
-[Tornar a la pàgina principal](../)
+[Tornar a la pàgina principal del projecte](../)
 
